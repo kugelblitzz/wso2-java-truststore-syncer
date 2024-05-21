@@ -79,6 +79,7 @@ Final Result
 
 ![image](https://github.com/kugelblitzz/wso2-java-truststore-syncer/assets/33368405/6199b4dd-2dab-471d-b403-38e8b27ed3c9)
 
+_Had to censor some domain related information_
 
 ## Tags
 
