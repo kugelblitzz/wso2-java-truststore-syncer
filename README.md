@@ -59,4 +59,11 @@ Define the paths to your source and destination truststores.
 SRC_TRUSTSTORE="/path/to/source/client-truststore.jks"
 DEST_TRUSTSTORE="/path/to/destination/client-truststore.jks"
 PASSWORD="your_keystore_password"
+```
 
+Exclude Aliases
+Specify the aliases you want to exclude from syncing.
+
+```sh
+EXCLUDE_ALIASES=("alias1" "alias2")
+```
