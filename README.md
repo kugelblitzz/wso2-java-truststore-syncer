@@ -22,7 +22,7 @@ The Certificate Syncer is a bash script designed to synchronize certificates bet
 
     ```sh
     git clone https://github.com/kugelblitzz/wso2-java-truststore-syncer.git
-    cd certificate-syncer
+    cd wso2-java-truststore-syncer
     ```
 
 2. **Configure the Script**
