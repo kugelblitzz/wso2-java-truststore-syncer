@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Paths to the source and destination truststores
-SRC_TRUSTSTORE="/Users/jonathan/Documents/cert-sync/SYNC-CER/QA/client-truststore.jks"
-DEST_TRUSTSTORE="/Users/jonathan/Documents/cert-sync/SYNC-CER/UAT/client-truststore.jks"
-PASSWORD="wso2carbon"
+SRC_TRUSTSTORE="/path/to/source/client-truststore.jks"
+DEST_TRUSTSTORE="/path/to/destination/client-truststore.jks"
+PASSWORD="your_keystore_password"
 
 # Aliases to exclude from syncing
 EXCLUDE_ALIASES=("alias1" "alias2")
