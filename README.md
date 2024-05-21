@@ -69,6 +69,17 @@ Specify the aliases you want to exclude from syncing.
 EXCLUDE_ALIASES=("alias1" "alias2")
 ```
 
+## Screenshots
+
+Processing 
+
+<img width="611" alt="image" src="https://github.com/kugelblitzz/wso2-java-truststore-syncer/assets/33368405/17f09a2a-3dec-438a-880c-89428411e4c4">
+
+Final Result
+
+![image](https://github.com/kugelblitzz/wso2-java-truststore-syncer/assets/33368405/6199b4dd-2dab-471d-b403-38e8b27ed3c9)
+
+
 ## Tags
 
 WSO2
