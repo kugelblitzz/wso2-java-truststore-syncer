@@ -61,9 +61,29 @@ DEST_TRUSTSTORE="/path/to/destination/client-truststore.jks"
 PASSWORD="your_keystore_password"
 ```
 
-Exclude Aliases
+### Exclude Aliases
+
 Specify the aliases you want to exclude from syncing.
 
 ```sh
 EXCLUDE_ALIASES=("alias1" "alias2")
 ```
+
+## Tags
+
+WSO2
+Java Keystore
+JKS
+Certificate Management
+Keytool
+Certificate Synchronization
+Bash Script
+Truststore
+WSO2 Identity Server
+WSO2 API Manager
+WSO2 Integration
+WSO2 Carbon
+Secure Sockets Layer (SSL)
+Transport Layer Security (TLS)
+Sync Truststore
+Trustore
