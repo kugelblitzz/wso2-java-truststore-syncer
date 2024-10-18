@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Certificate Syncer is a bash script designed to synchronize certificates between two Java Keystores (JKS). This script allows you to selectively exclude certain aliases from being synced and ensures that only new certificates are imported. It also provides a colorful and visually appealing output to enhance the user experience.
+The Certificate Syncer is a bash script designed to synchronize certificates between two Java Keystores (JKS). This script allows you to selectively exclude certain aliases from being synced and ensures that only new certificates are imported. It also provides a colorful and visually appealing output.
 
 ## Features
 
